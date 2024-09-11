@@ -4,7 +4,7 @@
 
 We are a dedicated team providing technology and marketing solutions tailored to your business's specific needs. From web server development to advanced digital marketing campaigns, we work to ensure your company's success in a competitive and ever-evolving market.
 
-## Our Work Areas
+## Our Work
 
 ### Web Server Development
 

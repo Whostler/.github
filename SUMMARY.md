@@ -2,4 +2,5 @@
 
 ## overview
 
-* [Whostler Services](README.md)
+* [About Whostler Services](README.md)
+* [Dedicated WebServer Setup](overview/dedicated-webserver-setup.md)
